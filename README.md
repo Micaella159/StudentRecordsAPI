@@ -3,6 +3,14 @@
 
 A RESTful API built using Node.js and Express.js for managing student records.
 
+Project Links
+
+GitHub Repository: https://github.com/Micaella159/StudentRecordsAPI
+
+Live API (Render): https://studentrecordsapi-ls9y.onrender.com
+
+Get All Students: https://studentrecordsapi-ls9y.onrender.com/api/students
+
 ## Features
 
 - Retrieve all students
